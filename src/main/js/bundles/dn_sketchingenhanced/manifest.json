@@ -1,6 +1,6 @@
 {
     "name": "dn_sketchingenhanced",
-    "version": "1.0.4",
+    "version": "1.0.5-SNAPSHOT",
     "title": "${bundleName}",
     "description": "${bundleDescription}",
     "vendor": "con terra GmbH",
